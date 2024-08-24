@@ -1,7 +1,10 @@
 # Theme-butterfly_MoGai
 个人魔改的[Hexo-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)主题。
+
 本主题为基于Hexo-theme-Butterfly主题的魔改版本……
+
 主题版本：Butterfly 4.14.0-b3
+
 魔改版本：v0.2
 
 外加插件包
