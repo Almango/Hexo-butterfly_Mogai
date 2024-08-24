@@ -1,14 +1,23 @@
-# Theme-butterfly_revision
+# Theme-butterfly_MoGai
 个人魔改的[Hexo-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)主题。
-本主题基于Hexo-theme-Butterfly魔改而来，虽然看上去变化似乎不是很大……
-后面会持续更新……
+本主题为基于Hexo-theme-Butterfly主题的魔改版本……
+主题版本：Butterfly 4.14.0-b3
+魔改版本：v0.2
 
+外加插件包
+> 需要自行安装插件，安装方法可参考：![美化日志](https://www.almango.cn/2024/07/18/Butterfly%E4%B8%BB%E9%A2%98%E9%AD%94%E6%94%B9%E6%97%A5%E5%BF%97/)
+> 安装后可在主题文件和主题配置文件中进行开启（默认关闭）
+
+```BASH
+.
+├── hexo-wordcount（字数统计）
+└── hexo-history-calendar （往年今日）
+└── hexo-butterfly-footer-beautify （页脚美化）
+└── hexo-generator-search （本地搜索）
+......
+```
 
  - 效果图：
 
-![QQ_1721484730338](https://github.com/user-attachments/assets/88194d09-c6a7-4b91-9353-7fba20838c09)
-
-
-
-![QQ_1721484948637](https://github.com/user-attachments/assets/7c006ee2-9e3d-4312-9cd4-7404d34eb67b)
+![](https://testingcf.jsdelivr.net/gh/Almango/Blog_imgbed@main/other/index.png)
 
