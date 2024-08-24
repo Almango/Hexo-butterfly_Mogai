@@ -1,4 +1,4 @@
-# Theme-butterfly_MoGai
+# Theme-butterfly_Mogai
 
 ✨个人魔改的[Hexo-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)主题。
 
